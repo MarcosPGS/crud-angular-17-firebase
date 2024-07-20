@@ -83,7 +83,7 @@ export class ModalFormUserComponent {
 
   saveUser(){
     const dados: User = this.formUser.getRawValue();
-    if (this.userData.firebaseId) {
+    if (this.isEditarUser === true) {
 
       this.usersService.updateUser(this.userData.firebaseId, dados).then(
         (resp: any) =>{
