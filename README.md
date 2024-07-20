@@ -25,3 +25,32 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## Bootstrap 5 
+
+Bootstrap is a powerful, feature-packed frontend toolkit. Build anything—from prototype to production—in minutes. [Build fast, responsive sites with Bootstrap](https://getbootstrap.com/) page.
+
+1 - Add no arquivo Styles.scss = `@import '../node_modules/bootstrap/dist/css/bootstrap.min.css';`
+
+## Angular Material
+
+Internationalized and accessible components for everyone. Well tested to ensure performance and reliability.[Material Design components for Angular](https://v17.material.angular.io/) page.
+
+
+
+## Google Fonts
+
+Icons are small symbols for actions or other items [Google Fonts Icons](https://fonts.google.com/icons) page.
+
+
+## Edupala
+
+Types of Angular event listener or Angular events list[Edupala](https://edupala.com/angular-events-binding-and-angular-event-list/) page.
+
+
+## Firebase
+
+Firebase é um conjunto de serviços de back-end de computação em nuvem e plataformas de desenvolvimento de aplicativos fornecidos pelo Google. [Firebase](https://firebase.google.com/?hl=pt) page.
+npm install firebase
+ng add @angular/fire
